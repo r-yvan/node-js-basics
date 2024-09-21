@@ -1,3 +1,3 @@
-const fs = require('fs')
+const fs = require("fs");
 
-console.log(fs)
+console.log(fs);
