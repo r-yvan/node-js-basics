@@ -1,13 +1,10 @@
 const os = require('os')
 
-
 var user = os.userInfo()
 console.log(user)
 
-
 var osUptime = os.uptime()
 console.log(osUptime)
-
 
 var currentOS = {
     OS_Type:  os.type(),
